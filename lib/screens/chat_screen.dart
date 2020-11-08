@@ -85,7 +85,7 @@ class _ChatScreenState extends State<ChatScreen> {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 8.0),
       height: 70.0,
-      color: Colors.white,
+      color: Colors.white60,
       child: Row(
         children: <Widget>[
           IconButton(
